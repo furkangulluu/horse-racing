@@ -1,0 +1,5 @@
+export enum RACE_STATUS {
+  STARTED = "STARTED",
+  FINISHED = "FINISHED",
+  READY = "READY",
+}

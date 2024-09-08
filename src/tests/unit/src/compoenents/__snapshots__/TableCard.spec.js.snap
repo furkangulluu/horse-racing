@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ActionButton.vue > is correctly rendered 1`] = `"<div class="action-button flex justify-center items-center py-2 px-6 h-10 rounded-lg cursor-pointer ml-3 transition-all bg-off-white hover:bg-gray-200 text-black">Button</div>"`;
+
+exports[`TableCard.vue > is correctly rendered 1`] = `
+"<div class="table-card__card border-2">
+  <div class="horse-list__card__header border-b p-2 bg-gray-100"><span>Test Title</span></div>
+  <table class="table-card__table w-full">
+    <thead></thead>
+    <tbody></tbody>
+  </table>
+</div>"
+`;

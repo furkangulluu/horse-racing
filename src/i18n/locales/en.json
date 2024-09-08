@@ -1,0 +1,50 @@
+{
+  "layout": {
+    "header": {
+      "title": "Horse Racing",
+      "buttons": {
+        "restart": "Restart",
+        "generateProgram": "Generate Program",
+        "startRace": "Start Race"
+      }
+    },
+    "horseList": {
+      "title": "Horse List",
+      "table": {
+        "columnName": {
+          "name": "Name",
+          "condition": "Condition",
+          "color": "Color"
+        }
+      }
+    },
+    "raceProgram": {
+      "title": "Program",
+      "noContent": "No program prepared",
+      "table": {
+        "columnName": {
+          "position": "Position",
+          "name": "Name"
+        }
+      }
+    },
+    "raceResults": {
+      "title": "Results",
+      "noContent": "Results were not announced yet",
+      "table": {
+        "columnName": {
+          "name": "Name",
+          "condition": "Condition"
+        }
+      }
+    },
+    "raceTrack": {
+      "countdown": {
+        "startingIn": "Starting in",
+        "sec": "sec"
+      },
+      "title": "Race",
+      "noContent": "Race not generated yet"
+    }
+  }
+}
