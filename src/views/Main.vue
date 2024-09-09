@@ -2,7 +2,7 @@
   <div class="header">
     <Header @startFirstProgram="startFirstProgram" />
   </div>
-  <div class="content flex w-full p-5 gap-5">
+  <div class="content flex justify-center w-full p-5 gap-5">
     <div class="w-72">
       <HorseList />
     </div>
